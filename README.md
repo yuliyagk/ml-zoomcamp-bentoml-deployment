@@ -24,13 +24,12 @@ The goal of this project is to:
 
 ``
 Data → Model Training → BentoML Packaging → API Service → Predictions
-```
 
 ## How to Run
 
 ### 1. Install dependencies
 
-```bash
+``bash
 pip install bentoml scikit-learn numpy
 
 ### 2. Train the model
